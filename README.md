@@ -5,7 +5,7 @@
 ---
 ### Features: 
 * Custom user model, categories and products, Carts
-* Incrementing, Decrementing and removing car items
+* Incrementing, Decrementing and removing cart items
 * Unlimited Product image gallery
 * Orders, Paypal Payment Gateway 
 * After-order functionalities such as reduce the quantify of sold products
