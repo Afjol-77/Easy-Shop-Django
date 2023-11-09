@@ -1,7 +1,7 @@
 # Easy-Shop-Django
 
 * An eCommerce application built with Python Django Framework. <br> <br>
-[Live App](https://pr11.pythonanywhere.com/)
+[Live App](https://pr1.pythonanywhere.com/)
 
 ![screenshot](https://github.com/Afjol-77/Easy-Shop-Django/blob/main/media/photos/screenshot.png?raw=true)
 
